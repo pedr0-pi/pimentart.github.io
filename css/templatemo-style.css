@@ -86,6 +86,11 @@ nav {
   z-index: 300;
   box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
 }
+nav .logo img {
+  height: 50px;
+  width: auto;
+  margin-top: 15px;
+}
 
 .menu-icon {
   background: transparent;
